@@ -21,7 +21,7 @@ const Flowchart = () => {
       <MiniMap />
       <Controls />
       <Background />
-      <h1>hello</h1>
+      <h1>he</h1>
     </ReactFlow>
   );
 };
