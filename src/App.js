@@ -19,6 +19,7 @@ const Flowchart = () => {
       style={{ width: '100%', height: '100vh' }}
     >
       <MiniMap />
+      <h1>himjfj</h1>
       <Controls />
       <Background />
       <h1>he</h1>
